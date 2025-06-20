@@ -29,10 +29,6 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-FFCA28?style=flat&logo=python&logoColor=black)
 
-### 🧠 AI/ML Frameworks
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-
 ### 🛢️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -63,7 +59,7 @@
 ## 📫 Let's Connect
 
 
-- 📧 Email: youremail@example.com
+- 📧 Email: juniorbakwowi@gmail.com
 
 ---
 
