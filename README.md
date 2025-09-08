@@ -6,7 +6,7 @@
 
 ## 🧠 About Me
 
-- 🌱 Currently learning and experimenting with **Machine Learning**, **Deep Learning**, and **Modern Web Technologies**
+- 🌱 Currently learning and experimenting with **AI**, and **Modern Web Technologies**
 - 👨‍💻 I enjoy turning complex problems into simple, creative solutions
 - 🚀 Constantly working to improve my skills in both frontend and backend development
 - 🧪 Interested in combining AI with real-world applications – from chatbots to intelligent dashboards
