@@ -38,20 +38,8 @@
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
----
 
-## 🌱 Current Projects
 
-- 🤖 Building smart chatbots with **GPT-powered backends**
-- 🌐 Developing full-stack web applications using **MERN stack**
-- 🧪 Experimenting with classic AI algorithms and comparing their performance
-
----
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bakwowi&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bakwowi&layout=compact&theme=github_dark)
 
 ---
 
